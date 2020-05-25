@@ -8,5 +8,4 @@ Seoil Moters Web site
 
 5월 25일 - 모든 파일 재 업로드 (HTML, CSS 수정, 견적게시판 글쓰기, 수정, 삭제 기능 추가)
 
-
-# main.html
+<a href="main.html"> main </a>
