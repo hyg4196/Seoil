@@ -1,7 +1,10 @@
 # Project Seoil
-
+<br>
 <strong>Seoil Moters Web site</strong>
-
+프로젝트 참여자: 홍윤기
+프로젝트 목적: 프론트엔드 & 백엔드 학습 및 웹 서버 운영
+<br>
+<strong> 프로젝트 이슈</strong>
 2020년 5월 01일 - 프로젝트 첫 시작
 
 2020년 5월 15일 - 파이썬 백엔드 작업 첫 시작
