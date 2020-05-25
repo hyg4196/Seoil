@@ -1,6 +1,7 @@
 # Project Seoil
 <br>
 <strong>Seoil Moters Web site</strong>
+
 프로젝트 참여자: 홍윤기
 프로젝트 목적: 프론트엔드 & 백엔드 학습 및 웹 서버 운영
 <br>
