@@ -1,6 +1,6 @@
 # Project Seoil
 
-Seoil Moters Web site
+<strong>Seoil Moters Web site</strong>
 
 2020년 5월 01일 - 프로젝트 첫 시작
 
@@ -11,7 +11,7 @@ Seoil Moters Web site
 <a href="main.html"> 홈페이지 </a>
 
 
-발생한 문제
+<strong>발생한 문제</strong>
 
 2020년 5월 - 한글로 글쓰기를 하면 오류 발생
 
